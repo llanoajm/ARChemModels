@@ -55,7 +55,7 @@ hr{
 .AR a{
     color: white;
     background-color: rgb(104, 0, 223);
-    font-size: 10px;
+    font-size: 0px;
     padding: 15px;
     border-radius: 15px;
 }
