@@ -42,6 +42,24 @@ hr{
     position: relative;
 }
 
+.AR{
+    padding: 100px 80px 100px 80px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    grid-template-columns: repeat(2,1fr);
+    background-color: rgb(46, 176, 245);
+    border-radius: 10px;
+    margin: 20px;
+}
+.AR a{
+    color: white;
+    background-color: rgb(104, 0, 223);
+    font-size: 50px;
+    padding: 15px;
+    border-radius: 15px;
+}
+
 .DNA{
     color: rgb(52, 199, 89);
 }
